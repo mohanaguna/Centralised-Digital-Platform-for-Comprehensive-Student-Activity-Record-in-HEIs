@@ -32,3 +32,8 @@ Many Higher Education Institutions maintain student activity records using separ
 - Admin Dashboard Module
 
 
+## **Use Case Diagram**
+
+The Use Case Diagram illustrates the interaction between users and the system. It shows the major functionalities available for Students, Faculty, and Admin in the Centralised Student Activity Record Platform.
+
+![Use Case Diagram](file_0000000038dc720b9a6e467279bda56c.png)

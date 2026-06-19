@@ -74,3 +74,9 @@ CREATE TABLE Activity (
     FOREIGN KEY (Student_ID) REFERENCES Student(Student_ID)
 );
 ```
+
+## **Page Layouts**
+
+The page layouts were designed to provide a simple and user-friendly interface for managing student activity records. The layouts include Login, Registration, Dashboard, Activity Management, and Report pages.
+
+

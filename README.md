@@ -48,3 +48,9 @@ The Use Case Diagram illustrates the interaction between users and the system. I
 | 4 | Activity | Stores student activity records |
 | 5 | Achievement | Stores achievements and certificates |
 | 6 | Report | Stores generated reports |
+
+## **ER Diagram**
+
+The ER Diagram represents the relationship between the entities in the system database. It helps in understanding how student activity records are stored and managed.
+
+![ER Diagram](file_0000000078d87209a4e117b473585aaf.png)

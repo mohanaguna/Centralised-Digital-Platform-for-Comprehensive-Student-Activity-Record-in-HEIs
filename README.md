@@ -54,3 +54,23 @@ The Use Case Diagram illustrates the interaction between users and the system. I
 The ER Diagram represents the relationship between the entities in the system database. It helps in understanding how student activity records are stored and managed.
 
 ![ER Diagram](file_0000000078d87209a4e117b473585aaf.png)
+
+## **SQL Schema**
+
+```sql
+CREATE TABLE Student (
+    Student_ID INT PRIMARY KEY,
+    Name VARCHAR(100),
+    Email VARCHAR(100),
+    Department VARCHAR(50),
+    Year INT
+);
+
+CREATE TABLE Activity (
+    Activity_ID INT PRIMARY KEY,
+    Activity_Name VARCHAR(100),
+    Activity_Type VARCHAR(50),
+    Student_ID INT,
+    FOREIGN KEY (Student_ID) REFERENCES Student(Student_ID)
+);
+```

@@ -79,4 +79,10 @@ CREATE TABLE Activity (
 
 The page layouts were designed to provide a simple and user-friendly interface for managing student activity records. The layouts include Login, Registration, Dashboard, Activity Management, and Report pages.
 
+## **UI Screens**
+
+The UI screens were designed to provide a simple and interactive interface for users. The screens include Login, Registration, Dashboard, Activity Management, and Report pages for efficient record management.
+
+
+
 

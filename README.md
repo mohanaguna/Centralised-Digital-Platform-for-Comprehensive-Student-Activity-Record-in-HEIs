@@ -37,3 +37,14 @@ Many Higher Education Institutions maintain student activity records using separ
 The Use Case Diagram illustrates the interaction between users and the system. It shows the major functionalities available for Students, Faculty, and Admin in the Centralised Student Activity Record Platform.
 
 ![Use Case Diagram](file_0000000038dc720b9a6e467279bda56c.png)
+
+## **Table List**
+
+| S.No | Table Name  | Description |
+|-------|------------|-------------|
+| 1 | Student | Stores student details |
+| 2 | Faculty | Stores faculty information |
+| 3 | Admin | Stores administrator details |
+| 4 | Activity | Stores student activity records |
+| 5 | Achievement | Stores achievements and certificates |
+| 6 | Report | Stores generated reports |
